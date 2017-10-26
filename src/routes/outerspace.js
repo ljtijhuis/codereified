@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 export default () => (
   <div>
-    Hi
+    WoopWoop
     <br />
-    <Link to="/page2">Go to Page2</Link>
+    <Link to="/">Go back to earth</Link>
   </div>
 );

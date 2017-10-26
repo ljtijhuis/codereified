@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 
 export default () => (
   <div>
-    Bye
+    Welcome to CodeReified
     <br />
-    <Link to="/">Go to Page1</Link>
+    <Link to="/outerspace">hyperdrive to outerspace</Link>
   </div>
 );
